@@ -4,7 +4,7 @@
 TITLE: Мой будущий лендинг (быть может)
 
 META:
-	description: Landing Page Framework
+	description: Landing Page
 	keywords: Landing page, php-framework
 	viewport: width=device-width, initial-scale=1.0
 	generator: Landing Page Framework (lpf.maxsite.com.ua)
